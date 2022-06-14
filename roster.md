@@ -1,3 +1,3 @@
 # PLEASE WRITE YOUR NAME IN THIS FILE AND MAKE A PULL REQUEST
-Daniel Rodriguez 
+- Daniel Rodriguez 
 - JD RICHARDS
